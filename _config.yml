@@ -1,0 +1,38 @@
+# site settings
+title: WarMj
+subtitle: a boy
+email: R.Donghui@outlook.com
+description: 程序、文学、摄像、电影……分享
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://www.WarMj.top
+author: WarMj
+#street_address: 1234 Somewhere Road
+#city: Xi'an
+#state: CN
+#zip_code: 00000
+#country: China
+#phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+jianshu_url: https://www.jianshu.com/u/d566a055f8d5
+github_url: https://github.com/WarMj
+weibo_url: https://weibo.com/u/2369157073
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url: https://instagram.com
+#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+#twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
